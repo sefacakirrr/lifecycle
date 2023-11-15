@@ -32,7 +32,7 @@ class HomePage extends Component{
     this.setState({
       countTwo: this.state.count + 1
     })
-  }
+  }  
 
    componentDidMount() {
     console.log("didmount---------------->HELLO")
