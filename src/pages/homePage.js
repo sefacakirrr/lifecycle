@@ -8,7 +8,7 @@ class HomePage extends Component{
      count:15,
      checkSystem:false,
    }
-   console.log("CONSTRUCTOR------>SEFA3")
+   console.log("CONSTRUCTOR------>SEFA45")
   }
     
   //  static getDerivedStateFromProps(props,state){
