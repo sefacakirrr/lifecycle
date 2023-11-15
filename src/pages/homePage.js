@@ -42,7 +42,7 @@ class HomePage extends Component{
       window.onload = function(){
         console.log("SAYFA TAMAMEN YÜKLENDİ")
       }
-        console.log("RENDER-------->")
+        console.log("RENDER-------->HELLO THEREEEE")
         console.log("countTwo",this.state.count)
         return (
             <div> 
