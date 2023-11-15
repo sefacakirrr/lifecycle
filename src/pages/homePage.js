@@ -44,6 +44,7 @@ class HomePage extends Component{
       }
         console.log("RENDER-------->HELLO THEREEEE")
         console.log("countTwo",this.state.count)
+        console.log("RENDER--------MUSTAFA SEFA ÇAKIR")
         return (
             <div> 
                 <b>LİFECYCLE METHODLARINI ÖĞRENİYORUZ</b>
